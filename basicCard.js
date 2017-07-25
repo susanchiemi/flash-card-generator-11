@@ -2,8 +2,9 @@
 var inquirer = require('inquirer');
 var questions = require('./questions.js').questions;
 
-basicCard = function(front, back) {
-    this.front = front;
-    this.back = back;
+exports.basicCard = function(full, cloze) {
+    this.full = full;
+    this.cloze = cloze;
 }
+
 

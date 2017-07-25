@@ -1,101 +1,101 @@
 exports.questions = [
 {
-front: "What was Blondie's name before she married Dagwood?",
-back: "Boopadoop"
+full: "What was Blondie's name before she married Dagwood?",
+cloze: "Boopadoop"
 },
 
 {
-front: "Who was the Indian chief who rode in Roosevelt's inaugural procession?",
-back: "Geronimo"
+full: "Who was the Indian chief who rode in Roosevelt's inaugural procession?",
+cloze: "Geronimo"
 },
 
 {
-front: "Elmo Lincoln was the screens first what 1918?",
-back: "Tarzan"
+full: "Elmo Lincoln was the screens first what 1918?",
+cloze: "Tarzan"
 },
 
 {
-front: "According to one estimate, Benjamin Franklin had 24 what?",
-back: "Bastards - Illegitimate children"
+full: "According to one estimate, Benjamin Franklin had 24 what?",
+cloze: "Bastards - Illegitimate children"
 },
 
 {
-front: "Who wrote the Star Spangled Banner?",
-back: "Francis Scott-key"
+full: "Who wrote the Star Spangled Banner?",
+cloze: "Francis Scott-key"
 },
 
 {
-front: "In 1976 what show appeared on TV for the first time?",
-back: "Charlie Angels "
+full: "In 1976 what show appeared on TV for the first time?",
+cloze: "Charlie Angels "
 },
 
 {
-front: "In the TV series Gun Smoke, what was the name of the saloon?",
-back: "Longbranch"
+full: "In the TV series Gun Smoke, what was the name of the saloon?",
+cloze: "Longbranch"
 },
 
 {
-front: "What was John Young, on a Gemini 3 mission, in 1968 the first to do in space?",
-back: "Eat a hamburger"   
+full: "What was John Young, on a Gemini 3 mission, in 1968 the first to do in space?",
+cloze: "Eat a hamburger"   
 },
 
 {
-front: "What was the first sport to be filmed?",
-back: "Boxing by Thomas Edison in 1894"  
+full: "What was the first sport to be filmed?",
+cloze: "Boxing by Thomas Edison in 1894"  
 },
 
 {
-front: "Which Hollywood star has made the cover of Life magazine the most times?",
-back: "Elizabeth Taylor (11 times)"   
+full: "Which Hollywood star has made the cover of Life magazine the most times?",
+cloze: "Elizabeth Taylor (11 times)"   
 },
 
 {
-front: "On the old TV cop series 'Dragnet', who was the star?",
-back: "Sergeant Joe Friday"    
+full: "On the old TV cop series 'Dragnet', who was the star?",
+cloze: "Sergeant Joe Friday"    
 },
 
 {
-front: "What  was the name of the first American to make $ 100 million a year?",
-back: "Al Capone"    
+full: "What  was the name of the first American to make $ 100 million a year?",
+cloze: "Al Capone"    
 },
 
 {
-front: "In 1949, Popular Mechanics said that in the future what could weigh less 1.5 tons?",
-back: "Computers"     
+full: "In 1949, Popular Mechanics said that in the future what could weigh less 1.5 tons?",
+cloze: "Computers"     
 },
 
 {
-front: "In what way was President James Buchanan different from all previous ones?",
-back: "Bachelor"      
+full: "In what way was President James Buchanan different from all previous ones?",
+cloze: "Bachelor"      
 },
 
 {
-front: "How did Buffalo Bill stick to one glass whisky a day?",
-back: "He used a one quart glass"     
+full: "How did Buffalo Bill stick to one glass whisky a day?",
+cloze: "He used a one quart glass"     
 },
 
 {
-front: "Who was The Little Playful One?",
-back: "Pocahontas"      
+full: "Who was The Little Playful One?",
+cloze: "Pocahontas"      
 },
 
 {
-front: "Who was the first President to serve ice cream at a state dinner?",
-back: "Thomas Jefferson"      
+full: "Who was the first President to serve ice cream at a state dinner?",
+cloze: "Thomas Jefferson"      
 },
 
 {
-front: "George Washington soaked his wooden teeth in what for taste?",
-back: "Port"      
+full: "George Washington soaked his wooden teeth in what for taste?",
+cloze: "Port"      
 },
 
 {
-front: "In 1998, what was voted the best monopoly piece?",
-back: "The Car"   
+full: "In 1998, what was voted the best monopoly piece?",
+cloze: "The Car"   
 },
 
 {
-front: "Who appeared on the first US postage stamp?",
-back: "Washington and Franklin"     
+full: "Who appeared on the first US postage stamp?",
+cloze: "Washington and Franklin"     
 }
 ]
