@@ -10,7 +10,7 @@ cloze: "Geronimo"
 },
 
 {
-full: "Elmo Lincoln was the screens first what 1918?",
+full: "Elmo Lincoln was the screens first what in 1918?",
 cloze: "Tarzan"
 },
 
@@ -70,7 +70,7 @@ cloze: "Bachelor"
 },
 
 {
-full: "How did Buffalo Bill stick to one glass whisky a day?",
+full: "How did Buffalo Bill stick to one glass whiskey a day?",
 cloze: "He used a one quart glass"     
 },
 
